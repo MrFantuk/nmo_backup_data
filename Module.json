@@ -1,0 +1,81 @@
+[{
+  "_id": "zZvxpKDPQ6",
+  "title": "Временные методические рекомендации «Профилактика, диагностика и лечение новой коронавирусной инфекции» Версия 14 (27.12.2021)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1644609079526"
+    }
+  },
+  "_updated_at": {
+    "$date": {
+      "$numberLong": "1657522338760"
+    }
+  },
+  "_p_specialtyId": "Specialty$Qo6DO5hSQ8",
+  "isRecommended": false
+},{
+  "_id": "KpPujhNVWj",
+  "title": "Приказ Минздрава России от 19.03.2020г. №198н \"О временном порядке организации работы медицинских организаций в целях реализации мер по профилактике и снижению рисков распространения новой коронавирусной инфекции\" с изменениями от 22.07.2021",
+  "specialtyId": "Specialty$Qo6DO5hSQ8",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1644613621722"
+    }
+  },
+  "_updated_at": {
+    "$date": {
+      "$numberLong": "1657522305504"
+    }
+  },
+  "_p_specialtyId": "Specialty$Qo6DO5hSQ8",
+  "isRecommended": true
+},{
+  "_id": "GqyHDaygE1",
+  "title": "Временные методические рекомендации «Профилактика, диагностика и лечение новой коронавирусной инфекции» Версия 15 (22.02.2022)",
+  "specialtyId": "Specialty$Qo6DO5hSQ8",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1645733536268"
+    }
+  },
+  "_updated_at": {
+    "$date": {
+      "$numberLong": "1657522307644"
+    }
+  },
+  "_p_specialtyId": "Specialty$Qo6DO5hSQ8",
+  "isRecommended": true
+},{
+  "_id": "bKOU0mJIbi",
+  "title": "Санитарное содержание помещений, оборудования, инвентаря при коронавирусной инфекции Актуализация 10.01.2022",
+  "specialtyId": "Specialty$Qo6DO5hSQ8",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1645735809583"
+    }
+  },
+  "_updated_at": {
+    "$date": {
+      "$numberLong": "1657522308616"
+    }
+  },
+  "_p_specialtyId": "Specialty$Qo6DO5hSQ8",
+  "isRecommended": true
+},{
+  "_id": "QQvsBQBXuu",
+  "title": "Организация оказания хирургической помощи в чрезвычайных ситуациях",
+  "zet": "2",
+  "_p_specialtyId": "Specialty$ankKmODepZ",
+  "isRecommended": false,
+  "_created_at": {
+    "$date": {
+      "$numberLong": "1657529867478"
+    }
+  },
+  "_updated_at": {
+    "$date": {
+      "$numberLong": "1657531687138"
+    }
+  },
+  "defaultId": "4798"
+}]

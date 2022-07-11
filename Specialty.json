@@ -1,0 +1,40 @@
+[{
+  "_id": "Qo6DO5hSQ8",
+  "title": "Для всех мед. работников",
+  "_created_at": {
+    "$date": {
+      "$numberLong": "1644609046811"
+    }
+  },
+  "_updated_at": {
+    "$date": {
+      "$numberLong": "1645081714794"
+    }
+  }
+},{
+  "_id": "gUtBZXBBb6",
+  "title": "Осуществляющие осмотр перед вакцинацией",
+  "_created_at": {
+    "$date": {
+      "$numberLong": "1644612249921"
+    }
+  },
+  "_updated_at": {
+    "$date": {
+      "$numberLong": "1645659101330"
+    }
+  }
+},{
+  "_id": "Wf5uO9Le7R",
+  "title": "Осуществляющие забор материала для ПЦР-исследования",
+  "_created_at": {
+    "$date": {
+      "$numberLong": "1644612259460"
+    }
+  },
+  "_updated_at": {
+    "$date": {
+      "$numberLong": "1645659108861"
+    }
+  }
+}]
